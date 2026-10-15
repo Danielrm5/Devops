@@ -1,6 +1,6 @@
 # Introducción a Devops
 
-![Devops](img/devops.GIF)
+![Devops](img/cicloDevops.png)
 
 ## Índice
 
